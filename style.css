@@ -27,6 +27,7 @@
   font-weight: 600;
   letter-spacing: 6px;
   color: #2f2e41;
+  cursor: pointer;
 }
 
 .navbar {
@@ -46,6 +47,11 @@
   color: white;
   background: #2f2e41;
   border-radius: 8px;
+}
+.navbar ul li a:hover{
+    background-color: #6c63ff;
+    scale: 1.1;
+    transition: all ease-in 0.5s;
 }
 .searchBox {
 }
