@@ -185,6 +185,29 @@
     color: #6c63ff;
 }
 .product .image img{
-    height: 300px;
-    width:250px;
+    height: 180px;
+    width: ;
+    
+}
+
+.products{
+  position: relative;
+  left:40px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 40px;
+}
+.product{
+  display: flex;
+  gap: 10px;
+  height: 350px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 200px;
+  margin-left: 30px;
+  border: 1px  solid black;
+  marg
+  
+  
 }
